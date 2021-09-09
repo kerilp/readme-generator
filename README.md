@@ -4,6 +4,7 @@
 
 Allows users to quickly generate an informative README.md file for their projects by answering a series of prompts in the command line, using Node JS.
 
+Video walkthrough available [here](https://drive.google.com/file/d/1hb1gECjS7hZUUcHGqaB62maQ6vvioiZW/view).
 ## Table of Contents
 
   * [Installation](#installation)
