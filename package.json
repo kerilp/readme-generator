@@ -11,5 +11,14 @@
     "inquirer": "^6.5.2"
   },
   "keywords": [],
-  "description": ""
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerilp/readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kerilp/readme-generator/issues"
+  },
+  "homepage": "https://github.com/kerilp/readme-generator#readme"
 }
