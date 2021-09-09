@@ -64,7 +64,7 @@ ${data.usage}
 
 ## License
 
-${renderLicenseSection(data.license)} Licensed under ${data.license}
+${renderLicenseSection(data.license)} ${data.license}
 
 ## Contributing
 
